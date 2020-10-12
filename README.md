@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**gwpantazes/gwpantazes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is George Pantazes.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a fullstack automated testing system at work, and various side projects in my spare time such as browser extensions or game demos and prototypes.
+- 🌱 I’m currently learning frontend development with React, as well as fullstack development in general.
+- 👯 I’m looking to collaborate on open source projects that coordinate real action between people, such as apps that coordinate volutneering opportunities or organize trash pickup.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about automated testing with Selenium.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+
+Twitter: [@georgepantazes](https://twitter.com/georgepantazes)
