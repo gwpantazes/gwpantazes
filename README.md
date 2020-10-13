@@ -7,7 +7,7 @@ My name is George Pantazes.
 - 👯 I’m looking to collaborate on open source projects that coordinate real action between people, such as apps that coordinate volutneering opportunities or organize trash pickup.
 - 🤔 I’m looking for help with growing as a community-driven engineer and participating member of the open source community. In other words: Let's be dev friends!
 - 💬 Ask me about automated testing with Selenium.
-- 📫 How to reach me: 
+- 📫 How to reach me: On Twitter [@georgepantazes](https://twitter.com/georgepantazes)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play accordion 🪗
 
